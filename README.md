@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🌬️ CalmBreath
 
-## Get started
+> **CalmBreath**, kullanıcıların nefes egzersizleri ve meditasyon teknikleriyle zihinsel ve fiziksel rahatlama sağlamalarına yardımcı olan bir mobil uygulamadır. Expo ve React Native kullanılarak geliştirilmiş olan bu proje, kullanıcı dostu arayüzü ve özelleştirilebilir egzersiz seçenekleriyle dikkat çekmektedir.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 📱 Uygulama Özellikleri
 
-2. Start the app
+- 🧘‍♀️ **Nefes Egzersizleri**: Farklı seviyelere uygun, rehberli nefes alma ve verme egzersizleri.
+- 🎨 **Kişiselleştirme**: Egzersiz süreleri gibi ayarların kullanıcı tercihlerine göre özelleştirilebilmesi.
+- 🔔 **Hatırlatıcılar**: Düzenli egzersizler için kullanıcıya bildirimlerle hatırlatmalar gönderme.
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🧪 Test ve Geliştirme
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **Dosya Tabanlı Yönlendirme**: `app/` dizini altında sayfalar ve bileşenler yapılandırılmıştır.
+- **Tailwind CSS Entegrasyonu**: Hızlı ve tutarlı stil uygulamaları için Tailwind CSS kullanılmıştır.
+- **TypeScript Desteği**: Tip güvenliği ve geliştirme deneyimini artırmak için TypeScript tercih edilmiştir.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🤝 Katkıda Bulunma
 
-When you're ready, run:
+Katkılarınızı memnuniyetle karşılıyoruz! Lütfen aşağıdaki adımları izleyerek katkıda bulunun:
 
-```bash
-npm run reset-project
-```
+1. Bu depoyu forklayın.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📬 İletişim
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Proje hakkında sorularınız, önerileriniz veya geri bildirimleriniz için lütfen [issue](https://github.com/Kubrakara/CalmBreath/issues) oluşturun veya doğrudan bizimle iletişime geçin.
