@@ -23,12 +23,11 @@
 
 ## 🤝 Katkıda Bulunma
 
-Katkılarınızı memnuniyetle karşılıyoruz! Lütfen aşağıdaki adımları izleyerek katkıda bulunun:
-
-1. Bu depoyu forklayın.
-
+Katkılarınızı memnuniyetle bekliyoruz. Depoyu forklayarak destek olabilirsiniz.
 ---
 
 ## 📬 İletişim
 
 Proje hakkında sorularınız, önerileriniz veya geri bildirimleriniz için lütfen [issue](https://github.com/Kubrakara/CalmBreath/issues) oluşturun veya doğrudan bizimle iletişime geçin.
+---
+Google play store de test aşamasında destek olmak için iletişime geçebilirsiniz.
