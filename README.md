@@ -33,8 +33,8 @@
 
 Aşağıda CalmBreath ana ekranına ait örnek bir görüntü yer almaktadır:
 
-![Uygulama Ekranı](/1ekran.jng)
-![Settings](/2ekran.jng)
+![Uygulama Ekranı](./1ekran.jpg)
+![Settings](./2ekran.jpg)
 
 ---
 
