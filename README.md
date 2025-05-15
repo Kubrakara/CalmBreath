@@ -31,7 +31,6 @@
 ---
 ## 📸 Uygulama Ekran Görüntüsü
 
-![Uygulama Ekranı](./1ekran.png)
 
 
 ---
