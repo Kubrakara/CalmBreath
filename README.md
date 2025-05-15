@@ -29,14 +29,24 @@
   Kod güvenliği ve geliştirme verimliliği için TypeScript tercih edilmiştir.
 
 ---
+
 ## 📸 Uygulama Ekran Görüntüsü
 
 Aşağıda CalmBreath ana ekranına ait örnek bir görüntü yer almaktadır:
 
-![Uygulama Ekranı](./1ekran.jpg)
-![Settings](./2ekran.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="./1ekran.jpg" alt="Ana Ekran" width="200"/><br/>
+      <sub>Ana Ekran</sub>
+    </td>
+    <td align="center">
+      <img src="./2ekran.jpg" alt="Ayarlar Ekranı" width="200"/><br/>
+      <sub>Ayarlar</sub>
+    </td>
+  </tr>
+</table>
 
----
 
 ## 🤝 Katkıda Bulunma
 
@@ -53,5 +63,3 @@ Geri bildirim, öneri veya hata bildirimi için lütfen [issue sayfası](https:/
 ## 🧪 Test Süreci ve Geri Bildirim
 
 Uygulama hâlihazırda Google Play Store'da test aşamasındadır. Test sürecine destek olmak isteyen kullanıcılarımız bizimle iletişime geçebilirsiniz.
-
-
