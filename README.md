@@ -31,7 +31,10 @@
 ---
 ## 📸 Uygulama Ekran Görüntüsü
 
-![/1ekran.jpg]
+Aşağıda CalmBreath ana ekranına ait örnek bir görüntü yer almaktadır:
+
+![Uygulama Ekranı](/1ekran.jng)
+![Settings](/2ekran.jng)
 
 ---
 
